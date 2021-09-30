@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mert Alperen Beser</h1>
 <h3 align="left">Science enthusiast</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=permanganant&label=Profile%20views&color=0e75b6&style=flat" alt="permanganant" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=permanganant&label=Profile%20views&color=0e75b6&style=flat" alt="permanganant" /> </p>
 <img src="https://c.tenor.com/a7AEXVIQdhQAAAAC/sir-patrick-stewart-patrick-stewart.gif" width="100px"></h2>
 
 - 📫 How to reach me **mertbeser77@gmail.com**
