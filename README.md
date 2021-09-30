@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Alperen Beser</h1>
 
 
-<img src="https://c.tenor.com/a7AEXVIQdhQAAAAC/sir-patrick-stewart-patrick-stewart.gif" width="90px"></h2>
+<img src="https://c.tenor.com/a7AEXVIQdhQAAAAC/sir-patrick-stewart-patrick-stewart.gif" width="100px"></h2>
 
 <h3 align="center">Science enthusiast</h3>
 
