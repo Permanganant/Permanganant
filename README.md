@@ -5,21 +5,14 @@
 
 - 📫 How to reach me **mertbeser77@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mert-alperen-beser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert-alperen-beser" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=permanganant&show_icons=true&locale=en&layout=compact" alt="permanganant" /></p>
 
 
-<p>
-  <a href="https://www.linkedin.com/mert-alperen-beser" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-</p>
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-melihsafacelik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-alperen-beser/)](https://www.linkedin.com/in/mert-alperen-beser/) 
+[![Gmail Badge](https://img.shields.io/badge/-melihsafa.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melihsafa.c@gmail.com)](mailto:melihsafa.c@gmail.com)
 
 
 
