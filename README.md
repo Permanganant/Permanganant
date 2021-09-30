@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **mertbeser77@gmail.com**
 - 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=permanganant&show_icons=true&locale=en&layout=compact" alt="permanganant" /></p>
-
+![Mert's github stats]("https://github-readme-stats.vercel.app/api/top-langs?username=permanganant&show_icons=true&locale=en&layout=compact")
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=permanganant&show_icons=true&locale=en" alt="permanganant" /></p>
 
