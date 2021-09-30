@@ -7,7 +7,17 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=permanganant&show_icons=true&locale=en" alt="permanganant" /></p>
 
+
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=permanganant&show_icons=true&locale=en&layout=compact" alt="permanganant" /></p>
+
+
+
+
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MertAlperenBeser-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-alperen-beser/)](https://www.linkedin.com/in/mert-alperen-beser/) 
