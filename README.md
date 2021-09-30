@@ -7,7 +7,7 @@
 - 
 <pre><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=permanganant&show_icons=true&locale=en&layout=compact" alt="permanganant" /></pre>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=permanganant&show_icons=true&locale=en" alt="permanganant" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=permanganant&show_icons=true&locale=en" alt="permanganant" /></pre>
 
 
 
