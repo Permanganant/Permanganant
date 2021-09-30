@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mert Alperen Beser</h1>
+
+
+<img src="https://tenor.com/ZHd2.gif" width="90px"></h2>
+
 <h3 align="center">Science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=permanganant&label=Profile%20views&color=0e75b6&style=flat" alt="permanganant" /> </p>
