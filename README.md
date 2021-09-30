@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Alperen Beser</h1>
 
 
-<img src="<div class="tenor-gif-embed" data-postid="12281820" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/sir-patrick-stewart-patrick-stewart-engage-serious-gif-12281820">Sir Patrick Stewart Engage GIF</a>from <a href="https://tenor.com/search/sir+patrick+stewart-gifs">Sir Patrick Stewart GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="90px"></h2>
+<img src="https://c.tenor.com/a7AEXVIQdhQAAAAC/sir-patrick-stewart-patrick-stewart.gif" width="90px"></h2>
 
 <h3 align="center">Science enthusiast</h3>
 
